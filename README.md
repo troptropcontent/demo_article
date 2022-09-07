@@ -1,24 +1,6 @@
-# README
+Article.all =>
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/75135824/188805983-549557c4-3390-446f-b355-79a72586c1c4.png">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+surfboard.characteristic 
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/75135824/188806137-abe1b244-980c-4131-a460-700b1cea9c58.png">
