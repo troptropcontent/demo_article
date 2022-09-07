@@ -1,0 +1,10 @@
+Description:
+The generator will create a new subclass of article and the corresponding Characteristic model
+
+Example:
+bin/rails generate article surfboard [attributes]
+
+    This will create:
+        model/surfboard.rb
+        model/surfboard_characteristic.rb
+        db/xxxxxxx_create_surfboard_characteristics.rb
